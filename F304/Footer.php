@@ -1,3 +1,3 @@
 <footer>
-derechos reservados
+derechos reservados: Alejandro Montoya Garzon , Luisa Rodriguez
 </footer>
